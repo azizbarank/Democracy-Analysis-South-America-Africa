@@ -106,4 +106,4 @@ african_countries = ['Mali', 'Burkina Faso', 'Niger', 'Chad', 'Guiena', 'Gabon',
 
 2. Which countries are remarkable in the sense of having full democracies and authoritarian regimes?
 
-For the detailed expression, please refer to this [blog post]() or [Tableau dashboard](https://public.tableau.com/app/profile/aziz.baran.kurtulus/viz/democracy_17333942440360/DemocracyMap).
+For the detailed expression, please refer to this [blog post](https://substack.com/home/post/p-152588118) or [Tableau dashboard](https://public.tableau.com/app/profile/aziz.baran.kurtulus/viz/democracy_17333942440360/DemocracyMap).
